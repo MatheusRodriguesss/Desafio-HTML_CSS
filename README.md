@@ -1,5 +1,6 @@
 Desafio HTML e CSS 🎨💻
-Esse repositório contém o resultado do meu desafio de HTML e CSS proposto pelo curso de desenvolvimento web da B7Web.
+
+Esse repositório contém o resultado do meu desafio de HTML e CSS proposto pelo curso de desenvolvimento web do IOS-Instituto da oportunidade social.
 
 Objetivo 🎯
 O objetivo do desafio era praticar a criação de uma página web utilizando HTML e CSS. O resultado final deveria ser uma página responsiva, com um layout agradável e uma boa organização de conteúdo.
