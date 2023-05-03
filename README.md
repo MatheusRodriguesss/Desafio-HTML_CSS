@@ -14,12 +14,16 @@ Resultado final 🌟
 O resultado final do desafio pode ser conferido aqui.
 
 Conclusão 🤔
-Foi um desafio muito interessante para praticar meus conhecimentos em HTML e CSS. Aprendi bastante sobre organização de código, responsividade e layout.
+Foi um desafio muito interessante para praticar nossos conhecimentos em HTML e CSS. Aprendemos bastante sobre organização de código, responsividade e layout.
 
 Sinta-se livre para dar uma olhada no meu código e compartilhar suas opiniões e sugestões. 🤗
 
-Colaboradores 
+Colaboradores:
+
 João Veloso
-Carina
-Matheus
+
+Carina Martins
+
+Matheus Rodrigues 
+
 João Carlos
