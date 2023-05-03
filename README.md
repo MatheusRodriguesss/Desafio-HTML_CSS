@@ -8,9 +8,7 @@ O objetivo do desafio era praticar a criação de uma página web utilizando HTM
 Tecnologias utilizadas 🚀
 Para a criação da página, foram utilizadas as seguintes tecnologias:
 
-HTML5
-
-CSS3
+HTML5 & CSS3
 
 Resultado final 🌟
 
